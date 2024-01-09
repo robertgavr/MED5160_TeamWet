@@ -19,6 +19,10 @@
 			"Name": "ZibraAILiquid",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/68085fbe90064bcd9bf26816ae0eadb5"
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
 		}
 	]
 }
